@@ -18,20 +18,20 @@
 
 ## Lampiran
 
-## Question 1
+### Question 1
 ![1](questions1.png)
 
-## Question 2
+### Question 2
 ![2](questions2.png)
 
-## Question 3
+### Question 3
 ![3](questions3.png)
 
-## Question 4
+### Question 4
 ![4](questions4.png)
 
-## Question 5
+### Question 5
 ![5](questions5.png)
 
-## Question 6
+### Question 6
 ![6](questions6.png)
